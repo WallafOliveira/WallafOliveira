@@ -2,7 +2,7 @@
 🖥️ **Desenvolvedor Web** | Técnico em Desenvolvimento de Sistemas | Cursando Ciências da Computação 🖥️
 
   <div align="center">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallafOliveira&layout=compact&langs_count=6&theme=blue-green"/>  
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallafOliveira&layout=compact&langs_count=10&theme=blue-green"/>  
   </div>
 
   <p align="center">
