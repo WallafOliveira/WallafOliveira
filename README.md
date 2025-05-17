@@ -1,9 +1,11 @@
 # Olá, me chamo Wallaf Oliveira!
 🖥️ **Desenvolvedor Web** | Técnico em Desenvolvimento de Sistemas | Cursando Ciências da Computação 🖥️
 
-<p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wallaffelipe&layout=compact&theme=dark">
-</p>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallafOliveira&layout=compact&langs_count=10&theme=dark&card_width=400" />
+
+</div>
 
 
   <p align="center">
