@@ -2,7 +2,7 @@
 🖥️ **Desenvolvedor Web** | Técnico em Desenvolvimento de Sistemas | Cursando Ciências da Computação 🖥️
 
 <p align="center">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wallaffelipe&layout=compact&theme=dark">
 </p>
 
 
