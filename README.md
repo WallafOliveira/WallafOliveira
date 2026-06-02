@@ -1,28 +1,30 @@
-# Olá, me chamo Wallaf Oliveira!
-🖥️ **Desenvolvedor Web** | Técnico em Desenvolvimento de Sistemas | Cursando Ciências da Computação 🖥️
+## Olá, eu sou Wallaf Felipe Lyra de Oliveira 👋
 
-<div align="center">
+💻 Desenvolvedor Web Full Stack <br>
+🎓 Estudante de Ciência da Computação na UNIMAR (Universidade de Marília)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallafOliveira&layout=compact&langs_count=10&theme=dark&card_width=400" />
+Desenvolvedor Full Stack atuante no mercado, combinando a experiência prática em ambiente de produção com a sólida base teórica da Ciência da Computação. Focado em construir aplicações eficientes, escaláveis e com código limpo, sempre aplicando as melhores práticas de arquitetura de software e modelagem de bancos de dados.
 
-</div>
+## 🚀 Tecnologias
 
-
-  <p align="center">
-    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
-    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-
- 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,vue,js,cs,python,mysql,git" />
 </p>
 
+## 📫 Contato
 
-<div> 
-  <a href="https://www.instagram.com/wallaffelipe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: wallaffelipe863@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wallaffelipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<p align="left">
+  <a href="[https://www.linkedin.com/in/bruno-henrique-albertoni-silva-720235312/](https://www.linkedin.com/in/wallaffelipe/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto: wallaffelipe863@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:brunoalbertoni06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
